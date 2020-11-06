@@ -3,9 +3,9 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,29 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "Department of Economics, Emory University"
+  organization_url = "http://economics.emory.edu/home/index.html"
+  title = "Economics Graduate Student Research Award of Excellence"
+  url = "http://economics.emory.edu/home/graduate/grad-awards.html"
+  date_start = "2020-05-07"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  organization = "Fulbright Colombia"
+  organization_url = "https://www.fulbright.edu.co/"
+  title = "Fulbright-Colciencias Scholarship for Doctoral Studies in the United States"
+  url = "https://www.fulbright.edu.co/alumni/#1531316098352-aa74b1bb-e04b"
+  date_start = "2016-01-01"
+  date_end = "2020-06-01"
   description = ""
 
+[[item]]
+  organization = "Universidad EAFIT"
+  organization_url = "https://www.eafit.edu.co/"
+  title = "Colciencias Junior Researcher Scholarship"
+  url = ""
+  date_start = "2014-07-01"
+  date_end = "2015-12-01"
+  description = ""
 +++
