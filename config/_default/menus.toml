@@ -13,11 +13,6 @@
   url = "files/cv.pdf"
   weight = 12
 
-[[main]]
-  name = "JMP"
-  url = "#jmp"
-  weight = 15
-
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"
@@ -27,6 +22,11 @@
 #  name = "Projects"
 #  url = "#projects"
 #  weight = 30
+
+[[main]]
+  name = "Working Papers"
+  url = "#featured"
+  weight = 20
 
 [[main]]
   name = "Publications"

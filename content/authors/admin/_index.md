@@ -88,4 +88,4 @@ email: ""
 
 I am currently a PhD Candidate in [Economics](http://economics.emory.edu/home/index.html) at [Emory University](http://www.emory.edu/home/index.html). After obtaining my undergraduate and master's degrees in Economics at [Universidad EAFIT](http://www.eafit.edu.co/) in Colombia, I came to Atlanta to continue my studies. My research work covers theoretical and applied econometrics, with a focus on Bayesian analysis. I have also been fortunate enough to have taught my own courses in economic principles and econometrics, furthering my passion for teaching.
 
-I am currently a job market candidate for 2020-21 and will be available for virtual interviews in both the EEA and AEA meetings.
+I will be joining the [Adam Smith Business School](https://www.gla.ac.uk/schools/business/) at the University of Glasgow as Lecturer in Econometrics starting September 2021.

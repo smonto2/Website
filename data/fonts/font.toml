@@ -2,7 +2,7 @@
 name = "font"
 
 # Optional Google font URL
-google_fonts = "Merriweather|Noto+Sans+JP"
+google_fonts = "family=Merriweather&family=Noto+Sans+JP"
 
 # Font families
 heading_font = "Merriweather"

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Welfare Gains of the Poor: An Endogenous Bayesian Approach with Spatial Random Effects"
-authors: [Ramírez-Hassan, A.; Montoya-Blandón, S.]
+authors: [Ramírez-Hassan, A.; Montoya-Blandón, S;]
 date: 2019-01-14T20:42:26-05:00
 doi: "10.1080/07474938.2016.1261062"
 
