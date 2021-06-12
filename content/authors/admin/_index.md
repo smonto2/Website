@@ -23,13 +23,16 @@ organizations:
 interests:
 - Econometrics
 - Bayesian methods
-- Microeconometric applications
+- Microeconomic applications
 
 education:
   courses:
   - course: PhD in Economics
     institution: Emory University
-    year: 2021 (Expected)
+    year: 2021
+  - course: MA in Economics
+    institution: Emory University
+    year: 2019
   - course: MsC in Economics
     institution: Universidad EAFIT
     year: 2015
