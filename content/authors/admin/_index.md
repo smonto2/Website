@@ -10,12 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Economics PhD Candidate
+role: Lecturer in Econometrics
 
 # Organizations/Affiliations
 organizations:
-- name: Emory University
-  url: "http://economics.emory.edu/home/index.html"
+- name: Adam Smith Business School  
+        University of Glasgow
+  url: "https://www.gla.ac.uk/schools/business/staff/santiagomontoyablandon/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include theoretical and applied econometrics, Bayesian methods, and focus on microeconomic applications.
@@ -89,6 +90,4 @@ email: ""
 #- Visitors
 ---
 
-I am currently a PhD Candidate in [Economics](http://economics.emory.edu/home/index.html) at [Emory University](http://www.emory.edu/home/index.html). After obtaining my undergraduate and master's degrees in Economics at [Universidad EAFIT](http://www.eafit.edu.co/) in Colombia, I came to Atlanta to continue my studies. My research work covers theoretical and applied econometrics, with a focus on Bayesian analysis. I have also been fortunate enough to have taught my own courses in economic principles and econometrics, furthering my passion for teaching.
-
-I will be joining the [Adam Smith Business School](https://www.gla.ac.uk/schools/business/) at the University of Glasgow as Lecturer in Econometrics starting September 2021.
+I am a Lecturer (Assistant Professor) in Econometrics for the [Adam Smith Business School](https://www.gla.ac.uk/schools/business/) at the [University of Glasgow](https://www.gla.ac.uk/). I completed my undergraduate and master's studies at Universidad EAFIT in Colombia before moving to Atlanta to complete my PhD at Emory University. My research work covers theoretical and applied econometrics, with a focus on Bayesian analysis, and attempts to present rigorous solutions to problems that arise in applied microeconomic settings. Currently, I am also interested in the econometric challenges inherent to network data. I am also passionate about teaching and, along the lines of my research interests, have taught several courses in Econometrics and Bayesian methods at an undergraduate and graduate level.
