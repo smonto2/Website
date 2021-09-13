@@ -55,21 +55,15 @@ social:
 - icon: ideas-repec
   icon_pack: ai
   link: https://ideas.repec.org/f/pmo1156.html
-- icon: mendeley
-  icon_pack: ai
-  link: https://www.mendeley.com/profiles/santiago-montoya-blandn2/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-2229-2254
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Santiago_Montoya-Blandon
-- icon: etsy
-  icon_pack: fab
+- icon: scopus
+  icon_pack: ai
   link: https://www.scopus.com/authid/detail.uri?authorId=57192829740
-- icon: windows
-  icon_pack: fab
-  link: https://academic.microsoft.com/profile/gi21f79h-j8e5-49eg-f2jh-39747767658i/SantiagoMontoya-Bland%C3%83%C2%B3n/publication/search?q=Santiago%20Montoya-Bland%C3%B3n&qe=%2540%2540%2540USER.PUBLICATIONS%253Dce21b79d-f8a5-49ac-b2fd-39747767658e&f=&orderBy=0
 - icon: github
   icon_pack: fab
   link: https://github.com/smonto2
@@ -79,6 +73,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/smontoyablandon
+#- icon: windows
+#  icon_pack: fab
+#  link: https://academic.microsoft.com/profile/gi21f79h-j8e5-49eg-f2jh-39747767658i/SantiagoMontoya-Bland%C3%83%C2%B3n/publication/search?q=Santiago%20Montoya-Bland%C3%B3n&qe=%2540%2540%2540USER.PUBLICATIONS%253Dce21b79d-f8a5-49ac-b2fd-39747767658e&f=&orderBy=0
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
