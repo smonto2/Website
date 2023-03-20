@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Forecasting from Others’ Experience: Bayesian Estimation of the Generalized Bass Model"
-authors: [Ramírez-Hassan, A.; Montoya-Blandón, S;]
+authors: [A. Ramírez-Hassan and S. Montoya-Blandón]
 date: 2019-10-19T20:43:37-05:00
 doi: "10.1016/j.ijforecast.2019.05.016"
 

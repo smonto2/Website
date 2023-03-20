@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Copula Estimation and Variable Selection with Multivariate Fractional Outcomes"
-authors: [Montoya-Blandón, S]
+authors: [S. Montoya-Blandón]
 date: 2021-02-08T20:43:27-05:00
 doi: ""
 

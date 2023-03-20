@@ -14,8 +14,8 @@ role: Lecturer in Econometrics
 
 # Organizations/Affiliations
 organizations:
-- name: Adam Smith Business School  
-        University of Glasgow
+- name: University of Glasgow
+        Adam Smith Business School
   url: "https://www.gla.ac.uk/schools/business/staff/santiagomontoyablandon/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,8 +23,9 @@ organizations:
 
 interests:
 - Econometrics
-- Bayesian methods
-- Microeconomic applications
+- Bayesian statistics
+- Applied microeconomics
+- Networks and spatial data
 
 education:
   courses:
@@ -87,4 +88,6 @@ email: ""
 #- Visitors
 ---
 
-I am a Lecturer (Assistant Professor) in Econometrics for the [Adam Smith Business School](https://www.gla.ac.uk/schools/business/) at the [University of Glasgow](https://www.gla.ac.uk/). I completed my undergraduate and master's studies at Universidad EAFIT in Colombia before moving to Atlanta to complete my PhD at Emory University. My research work covers theoretical and applied econometrics, with a focus on Bayesian analysis, and attempts to present rigorous solutions to problems that arise in applied microeconomic settings. Currently, I am also interested in the econometric challenges inherent to network data. I am also passionate about teaching and, along the lines of my research interests, have taught several courses in Econometrics and Bayesian methods at an undergraduate and graduate level.
+I am a Lecturer (Assistant Professor) in Econometrics for the [Adam Smith Business School](https://www.gla.ac.uk/schools/business/) at the [University of Glasgow](https://www.gla.ac.uk/). I completed my undergraduate and master's studies at Universidad EAFIT in Colombia before moving to Atlanta to complete my PhD at Emory University.
+
+My research work covers theoretical and applied econometrics, with a focus on Bayesian methods, and attempts to present rigorous solutions to problems that arise in applied microeconomic settings. Currently, I am particularly interested in the econometric challenges inherent to network and spatial data. I am also passionate about teaching and have taught several courses in Econometrics and Bayesian methods at an undergraduate and graduate level.

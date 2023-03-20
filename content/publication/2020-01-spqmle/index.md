@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Semiparametric Quasi Maximum Likelihood Estimation of the Fractional Response Model"
-authors: [Montoya-Blandón, S.; Jacho-Chávez, D. T;]
+authors: [S. Montoya-Blandón and D.T. Jacho-Chávez]
 date: 2020-01-14T20:43:27-05:00
 doi: "10.1016/j.econlet.2019.108769"
 
