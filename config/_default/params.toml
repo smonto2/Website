@@ -523,5 +523,4 @@ plugins_js  = []
 ## Icon Pack Extensions
 ############################
 [icon.pack]
->>>>>>> Stashed changes
- ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/

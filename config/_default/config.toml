@@ -159,4 +159,3 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [security.funcs]
 getenv = [ "^HUGO_", "^WC_" ]
->>>>>>> Stashed changes
