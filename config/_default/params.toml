@@ -90,7 +90,7 @@ phone = "+44 (0) 141 330 8039"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "University Avenue, Main Building", city = "Glasgow", region = "", postcode = "G12 8QQ", country = "United Kingdom", country_code = "UK"}
+address = {street = "Room 664, Main Building, University Avenue", city = "Glasgow", region = "", postcode = "G12 8QQ", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
