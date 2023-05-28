@@ -78,7 +78,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [security.funcs]
 getenv = [ "^HUGO_", "^WC_" ]
-=======
+
 # Configuration of Academic
 # Documentation: https://sourcethemes.com/academic/
 #
