@@ -1,4 +1,3 @@
-=======
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
@@ -17,7 +16,7 @@ publishDate: 2019-11-14T20:43:27-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Applied Stochastic Models in Business and Industry**"
+publication: "**Applied Stochastic Models in Business and Industry**, 39 (3), pp. 315–317"
 publication_short: ""
 
 abstract: "We provide a discussion of “Multivariate dynamic modeling for Bayesian forecasting of business revenue” by Yanchenko, Tierney, Lawson, Hellmayr, Cron, and West. As perfectly exhibited in the paper, the dynamic linear model framework is tremendously diverse and flexible, with many modeling and fine-tuning options that can be suited to a wide range of applications. On the other hand, the sheer amount of flexibility in these models means there can still be strategies that lead to potential forecasting gains. Consequently, in this comment we explore possible extensions to the specification presented in the paper that might add value to this and future business revenue forecasting applications."

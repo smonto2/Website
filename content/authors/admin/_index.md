@@ -49,7 +49,7 @@ education:
 social:
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: https://gla-my.sharepoint.com/:b:/g/personal/santiago_montoya-blandon_glasgow_ac_uk/Ec526oISSORIvQemt5Is6ZgBSRvSZZ0f0XG89okeXKW2oQ?e=hRPnlB
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=QXGZsqIAAAAJ

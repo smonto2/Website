@@ -37,8 +37,8 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_code:
-url_dataset:
+url_code: "supplement.zip"
+url_dataset: "supplement.zip"
 url_poster:
 url_project:
 url_slides:
