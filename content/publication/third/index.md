@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: ""
+url_pdf: "publication/third/nonlinear_multivariate_fractional.pdf"
 url_code:
 url_dataset:
 url_poster:
