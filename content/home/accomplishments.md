@@ -26,7 +26,7 @@ item:
   url: ''
 subtitle: ''
 title: Awards
-weight: 40
+weight: 90
 widget: accomplishments
 ---
 

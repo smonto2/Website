@@ -1,0 +1,33 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Home
+    url: '#about'
+    weight: 10
+  - name: CV
+    url: 'https://gla-my.sharepoint.com/:b:/g/personal/santiago_montoya-blandon_glasgow_ac_uk/Ec526oISSORIvQemt5Is6ZgBSRvSZZ0f0XG89okeXKW2oQ?e=hRPnlB'
+    weight: 20
+#  - name: Projects
+#    url: '#projects'
+#    weight: 30
+  - name: Working Papers
+    url: '#featured'
+    weight: 40
+  - name: Publications
+    url: '#publications'
+    weight: 50
+#  - name: Posts
+#    url: '#posts'
+#    weight: 60
+  - name: Code
+    url: '#code'
+    weight: 70
+  - name: Contact
+    url: '#contact'
+    weight: 80
+  - name: Awards
+    url: '#accomplishments'
+    weight: 90
