@@ -1,0 +1,11 @@
+# Font style metadata
+name = "font"
+
+# Optional Google font URL
+google_fonts = "family=Merriweather&family=Noto+Sans+JP&family=Source+Code+Pro"
+
+# Font families
+heading_font = "Merriweather"
+body_font = "Merriweather"
+nav_font = "Noto Sans JP"
+mono_font = "Source Code Pro"

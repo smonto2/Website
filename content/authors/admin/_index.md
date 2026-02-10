@@ -88,6 +88,6 @@ email: ""
 #- Visitors
 ---
 
-I am a Lecturer (Assistant Professor) in Econometrics for the [Adam Smith Business School](https://www.gla.ac.uk/schools/business/) at the [University of Glasgow](https://www.gla.ac.uk/). I completed my undergraduate and master's studies at Universidad EAFIT in Colombia before moving to Atlanta to complete my PhD at Emory University.
+I am a Lecturer (Assistant Professor) in Econometrics for the [Adam Smith Business School](https://www.gla.ac.uk/schools/business/) at the [University of Glasgow](https://www.gla.ac.uk/). I am originally from Colombia, where I did both my undegraduate and master's, moved to Atlanta (US) for my PhD, and currently reside in beautiful Scotland.
 
-My research work covers theoretical and applied econometrics, with a focus on Bayesian methods, and attempts to present rigorous solutions to problems that arise in applied microeconomic settings. Currently, I am particularly interested in the challenges inherent to networks and spatial data. I am also passionate about teaching and have taught several courses in Econometrics and Bayesian methods at an undergraduate and graduate level.
+My research work covers theoretical and applied econometrics, with a focus on Bayesian methods, and attempts to present rigorous solutions to problems that arise in applied economic settings. Currently, I am particularly interested in the challenges inherent to networks and spatial data. I am also passionate about teaching and have taught several courses across the world in Econometrics and Bayesian methods at an undergraduate and graduate level.
