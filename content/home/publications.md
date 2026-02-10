@@ -22,6 +22,6 @@ title: Research
 weight: 30
 widget: pages
 ---
-{{% callout note %}}
+
+[!important]
 [Click here for a full list with abstracts and links.]({{< ref "/publication/_index.md" >}})
-{{% /callout %}}
