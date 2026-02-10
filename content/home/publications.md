@@ -18,10 +18,10 @@ design:
   view: 4
 headless: true
 subtitle: ''
-title: Publications
-weight: 21
+title: Research
+weight: 30
 widget: pages
 ---
 {{% callout note %}}
-[Click here]({{< ref "/publication/_index.md" >}}) for more details.
+[Click here for a full list with abstracts and links.]({{< ref "/publication/_index.md" >}})
 {{% /callout %}}

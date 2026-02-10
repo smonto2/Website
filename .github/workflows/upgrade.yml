@@ -45,7 +45,7 @@ jobs:
         uses: pnpm/action-setup@v4
         with:
           package_json_file: ./package.json
-          run_install: false
+          run_install: true
           version: '10.x'
 
       - name: Setup Go
@@ -93,7 +93,7 @@ jobs:
             - [ ] Merge this PR to apply the updates.
           branch: "chore/upgrade-hugoblox-${{ github.run_id }}"
           delete-branch: true
-          base: main
+          base: master
           labels: |
             dependencies
             automated-pr
