@@ -8,9 +8,9 @@ weight: 40
 widget: blank
 ---
 
-{{% callout note %}}
-[Click here for additional information, links, and code used for teaching.]({{< ref "/code/_index.md" >}})
-{{% /callout %}}
+# {{% callout note %}}
+# [Click here for additional information, links, and code used for teaching.]({{< ref "/code/_index.md" >}})
+# {{% /callout %}}
 
 ## Packages
 
