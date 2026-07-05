@@ -1,108 +1,153 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# Appearance
+############################
+## Theme
+############################
 
-appearance:
-  theme_day: uofg
-  theme_night: uofg
-  font: customfont
-  font_size: L
+# Choose a theme (browse built-in themes in `data/themes/`, or your own in `data/themes/`).
+theme: uofg
 
-# SEO
+# Enable users to switch between day and night mode?
+day_night: true
+
+# Override the theme's font set (browse built-in font sets in `data/fonts/`).
+font: customfont
+
+# Choose a font size. Sizes: XS, S, M, L (default), XL
+font_size: L
+
+############################
+## Basic Info
+############################
+
+site_type: Person
+local_business_type: ''
+org_name: ''
+description: 'Santiago Montoya Blandon University of Glasgow Adam Smith Business School Lecturer of Econometrics'
+logo: ''
+
+############################
+## Site Features
+############################
+
+highlight: true
+highlight_languages: ['r', 'latex']
+
+math: true
+diagram: false
+privacy_pack: true
+
+edit_page:
+  repo_url: 'https://github.com/smonto2/Website'
+  repo_branch: master
+  editable:
+    docs: true
+    page: false
+    post: false
+
+############################
+## Social
+############################
+
+sharing_image: ''
+twitter: SMontoyaBlandon
+
+############################
+## Regional Settings
+############################
+
+date_format: 'Jan 2, 2006'
+time_format: '3:04 PM'
+address_format: en-us
+
+############################
+## Advanced
+############################
+
+main_menu:
+  align: l
+  show_logo: true
+
+avatar:
+  gravatar: false
+  shape: circle
+reading_time: true
+section_pager: false
+docs_section_pager: true
+sharing: true
+link_authors: true
+plugins_js: []
+
+publications:
+  date_format: 'January 2006'
+  citation_style: apa
+
+projects:
+  post_view: 2
+  publication_view: 2
+  talk_view: 2
+
+address_formats:
+  en-us:
+    order: ['street', 'city', 'region', 'postcode']
+    delimiters: [', ', ', ', ' ', '']
+  en-gb:
+    order: ['street', 'city', 'region', 'postcode']
+    delimiters: [', ', ', ', ', ', '']
+  zh:
+    order: ['postcode', 'region', 'city', 'street']
+    delimiters: [' ', ' ', ' ', '']
+
+############################
+## Comments
+############################
+
+comments:
+  provider: ''
+  commentable:
+    page: true
+    post: true
+    docs: true
+    project: true
+    publication: true
+    talk: true
+  disqus:
+    shortname: ''
+    show_count: true
+
+############################
+## Search
+############################
+
+search:
+  provider: wowchemy
+  algolia:
+    app_id: ''
+    api_key: ''
+    index_name: ''
+    show_logo: false
+
+############################
+## Maps
+############################
+
+map:
+  provider: ''
+  api_key: ''
+  zoom: 15
+
+############################
+## Marketing
+############################
 
 marketing:
-  seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'Santiago Montoya Blandon University of Glasgow Adam Smith Business School Lecturer of Econometrics'
-    twitter: '@SMontoyaBlandon'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
+  google_analytics: ''
+  google_tag_manager: ''
 
-# Site header
+############################
+## Icon Pack Extensions
+############################
 
-header:
-  navbar:
-    enable: true
-    align: l
-    show_logo: true
-    show_language: false
-    show_day_night: true
-    show_search: true
-    highlight_active_link: true
-
-# Site footer
-
-footer:
-  copyright:
-    notice: '© {year} Santiago Montoya Blandon. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
-
-# Localization
-
-locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
-
-# Site features
-
-features:
-  syntax_highlighter:
-    enable: true
-    extra_languages:
-      - r
-      - latex
-  math:
-    enable: true
-  privacy_pack:
-    enable: true
-  repository:
-    url: 'https://github.com/<username>/<repository>'
-    content_dir: content
-    branch: master
-  avatar:
-    gravatar: false
-    shape: circle
-  comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
-  map:
-    provider: ''
-    api_key: ''
-    zoom: 15
-
-# Extensions
-
-extensions:
-  cms:
-    branch: master
-    local_backend: false
-  isotope:
-    # Enable if you use the Portfolio widget or Publication filter
-    enable: true
-  academicons:
-    enable: true
+icon:
+  pack:
+    ai: true # Academicons icon pack https://jpswalsh.github.io/academicons/
