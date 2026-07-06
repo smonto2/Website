@@ -67,6 +67,7 @@ address_format: en-us
 main_menu:
   align: l
   show_logo: true
+  show_language: true
 
 avatar:
   gravatar: false

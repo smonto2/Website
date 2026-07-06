@@ -5,13 +5,19 @@
 # Default language
 en:
   locale: en-us
+  weight: 1
   # # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   # contentDir: content/en
 
-# # Spanish too
-# es:
-#   languageCode: es-us
-#   contentDir: content/es
+# Spanish translation.
+#   Content is stored alongside the English files using the `.es.md` filename
+#   suffix (e.g. `about.es.md` next to `about.md`), not a separate `content/es/` folder.
+es:
+  locale: es-es
+  weight: 2
+  title: Santiago Montoya-Blandón
+  params:
+    description: '[ES] Santiago Montoya Blandon University of Glasgow Adam Smith Business School Lecturer of Econometrics'
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
