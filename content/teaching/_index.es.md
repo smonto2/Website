@@ -24,39 +24,39 @@ Diapositivas y material de laboratorio semanal para los cursos que actualmente c
 
 ### ECON 5152 --- Network Analysis
 
-- **Semana 1:** [Diapositivas](/teaching/econ5152_Network_Analysis/Week%20-%201.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_1.ipynb)
-- **Semana 2:** [Diapositivas](/teaching/econ5152_Network_Analysis/Week%20-%202.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_2.ipynb)
-- **Semana 3:** [Diapositivas](/teaching/econ5152_Network_Analysis/Week%20-%203.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_3.ipynb)
-- **Semana 4:** [Diapositivas](/teaching/econ5152_Network_Analysis/Week%20-%204.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_4.ipynb)
-- **Semana 5:** [Diapositivas](/teaching/econ5152_Network_Analysis/Week%20-%205.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_5.ipynb)
-- **Semana 6:** [Diapositivas](/teaching/econ5152_Network_Analysis/Week%20-%206.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_6.ipynb)
-- **Semana 7:** [Diapositivas](/teaching/econ5152_Network_Analysis/Week%20-%207.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_7.ipynb)
-- **Semana 8:** [Diapositivas](/teaching/econ5152_Network_Analysis/Week%20-%208.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_8.ipynb)
-- **Semana 9:** [Diapositivas](/teaching/econ5152_Network_Analysis/Week%20-%209.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_9.ipynb)
-- **Semana 10:** [Diapositivas](/teaching/econ5152_Network_Analysis/Week%20-%2010.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_10.ipynb)
+- **Semana 1: Introducción a las Redes** --- [Diapositivas](/teaching/econ5152_Network_Analysis/Week_1.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_1.ipynb)
+- **Semana 2: Tipos de Redes y Estadísticas** --- [Diapositivas](/teaching/econ5152_Network_Analysis/Week_2.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_2.ipynb)
+- **Semana 3: Centralidad e Importancia** --- [Diapositivas](/teaching/econ5152_Network_Analysis/Week_3.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_3.ipynb)
+- **Semana 4: Procesos Lineales en Redes** --- [Diapositivas](/teaching/econ5152_Network_Analysis/Week_4.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_4.ipynb)
+- **Semana 5: Grafos Aleatorios** --- [Diapositivas](/teaching/econ5152_Network_Analysis/Week_5.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_5.ipynb)
+- **Semana 6: Estructura en Grafos Aleatorios** --- [Diapositivas](/teaching/econ5152_Network_Analysis/Week_6.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_6.ipynb)
+- **Semana 7: Redes Estratégicas y Económicas** --- [Diapositivas](/teaching/econ5152_Network_Analysis/Week_7.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_7.ipynb)
+- **Semana 8: Redes como Datos --- Puntos de Referencia Nulos y Modelos de Grafos Aleatorios Exponenciales** --- [Diapositivas](/teaching/econ5152_Network_Analysis/Week_8.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_8.ipynb)
+- **Semana 9: Difusión en Redes** --- [Diapositivas](/teaching/econ5152_Network_Analysis/Week_9.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_9.ipynb)
+- **Semana 10: Temas Avanzados y Redes Complejas** --- [Diapositivas](/teaching/econ5152_Network_Analysis/Week_10.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_10.ipynb)
 
 Material adicional: [cuaderno usado para generar las figuras de las diapositivas](/teaching/econ5152_Network_Analysis/Slides_Figures.ipynb).
 
 ### ECON 5128 --- MRes Econometrics 2
 
-- **Semanas 1--2: Datos de Panel** --- [Diapositivas](</teaching/econ5128_Econometrics_2/Week%201-2%20-%20Panel%20Data.pdf>)
-- **Semana 3: GMM Lineal** --- [Diapositivas](</teaching/econ5128_Econometrics_2/Week%203%20-%20Linear%20GMM.pdf>)
-- **Semanas 4--5: GMM No Lineal** --- [Diapositivas](</teaching/econ5128_Econometrics_2/Week%204-5%20-%20Non-Linear%20GMM.pdf>)
-- **Semana 7: Mala Especificación** --- [Diapositivas](</teaching/econ5128_Econometrics_2/Week%20-%207%20-%20Misspecification.pdf>)
+- **Semanas 1--2: Datos de Panel** --- [Diapositivas](/teaching/econ5128_Econometrics_2/Week_1-2.pdf)
+- **Semana 3: GMM Lineal** --- [Diapositivas](/teaching/econ5128_Econometrics_2/Week_3.pdf)
+- **Semanas 4--5: GMM No Lineal** --- [Diapositivas](/teaching/econ5128_Econometrics_2/Week_4-5.pdf)
+- **Semana 7: Mala Especificación** --- [Diapositivas](/teaching/econ5128_Econometrics_2/Week_7.pdf)
 
-Material adicional: [notas de clase (OneNote)](/teaching/econ5128_Econometrics_2/Lecture%20Notes.one).
+Material adicional: [notas de clase (OneNote)](/teaching/econ5128_Econometrics_2/Lecture_Notes.one).
 
 ### ECON 5120 --- Bayesian Data Analysis
 
-- **Semana 1:** [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week%20-%201.pdf) · [Laboratorio](</teaching/econ5120_Bayesian_Data_Analysis/Lab%201.zip>)
-- **Semana 2:** [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week%20-%202.pdf) · [Laboratorio](</teaching/econ5120_Bayesian_Data_Analysis/Lab%202.zip>)
-- **Semana 3:** [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week%20-%203.pdf) · [Laboratorio](</teaching/econ5120_Bayesian_Data_Analysis/Lab%203.zip>)
-- **Semana 4:** [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week%20-%204.pdf) · [Laboratorio](</teaching/econ5120_Bayesian_Data_Analysis/Lab%204.zip>)
-- **Semana 5:** [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week%20-%205.pdf) · [Laboratorio](</teaching/econ5120_Bayesian_Data_Analysis/Lab%205.zip>)
-- **Semana 6:** [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week%20-%206.pdf) · [Laboratorio](</teaching/econ5120_Bayesian_Data_Analysis/Lab%206.zip>)
-- **Semana 7:** [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week%20-%207.pdf) · [Laboratorio](</teaching/econ5120_Bayesian_Data_Analysis/Lab%207.zip>)
-- **Semana 8:** [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week%20-%208.pdf) · [Laboratorio](</teaching/econ5120_Bayesian_Data_Analysis/Lab%208.zip>)
-- **Semana 9:** [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week%20-%209.pdf) · [Laboratorio](</teaching/econ5120_Bayesian_Data_Analysis/Lab%209.zip>)
-- **Semana 10:** [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week%20-%2010.pdf) · [Laboratorio](</teaching/econ5120_Bayesian_Data_Analysis/Lab%2010.zip>)
+- **Semana 1: Introducción y Ejemplos de la Regla de Bayes** --- [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week_1.pdf) · [Laboratorio](/teaching/econ5120_Bayesian_Data_Analysis/Lab_1.zip)
+- **Semana 2: Modelo Normal y Expectativas Posteriores** --- [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week_2.pdf) · [Laboratorio](/teaching/econ5120_Bayesian_Data_Analysis/Lab_2.zip)
+- **Semana 3: Métodos MCMC** --- [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week_3.pdf) · [Laboratorio](/teaching/econ5120_Bayesian_Data_Analysis/Lab_3.zip)
+- **Semana 4: Regresión Lineal Normal y Modelos Jerárquicos** --- [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week_4.pdf) · [Laboratorio](/teaching/econ5120_Bayesian_Data_Analysis/Lab_4.zip)
+- **Semana 5: Evaluación de Modelos y Ejemplo Empírico** --- [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week_5.pdf) · [Laboratorio](/teaching/econ5120_Bayesian_Data_Analysis/Lab_5.zip)
+- **Semana 6: Pronóstico e Incertidumbre del Modelo** --- [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week_6.pdf) · [Laboratorio](/teaching/econ5120_Bayesian_Data_Analysis/Lab_6.zip)
+- **Semana 7: Variational Bayes (Métodos MCMC Avanzados)** --- [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week_7.pdf) · [Laboratorio](/teaching/econ5120_Bayesian_Data_Analysis/Lab_7.zip)
+- **Semana 8: Hamiltonian Monte Carlo (Métodos MCMC Avanzados)** --- [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week_8.pdf) · [Laboratorio](/teaching/econ5120_Bayesian_Data_Analysis/Lab_8.zip)
+- **Semana 9: Incertidumbre del Modelo y Selección de Variables** --- [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week_9.pdf) · [Laboratorio](/teaching/econ5120_Bayesian_Data_Analysis/Lab_9.zip)
+- **Semana 10: Series de Tiempo y VARs Bayesianos** --- [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week_10.pdf) · [Laboratorio](/teaching/econ5120_Bayesian_Data_Analysis/Lab_10.zip)
 
-Material adicional: [notas de clase sobre Variational Bayes para Regresión Lineal](</teaching/econ5120_Bayesian_Data_Analysis/Lecture%20Notes%20-%20Variational%20Bayes%20for%20Linear%20Regression.pdf>).
+Material adicional: [notas de clase sobre Variational Bayes para Regresión Lineal](/teaching/econ5120_Bayesian_Data_Analysis/Lecture_Notes_Variational_Bayes.pdf).
