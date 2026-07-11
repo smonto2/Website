@@ -1,0 +1,30 @@
+# Navigation Links (Spanish)
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: CV
+    url: 'https://smontoy.netlify.com/cv.pdf'
+    weight: 20
+  - name: Documentos de Trabajo
+    url: '/workingpaper/'
+    weight: 40
+  - name: Publicaciones
+    url: '/publication/'
+    weight: 50
+  - name: Código
+    url: '/code/'
+    weight: 60
+  - name: Docencia
+    url: '/teaching/'
+    weight: 63
+#  - name: Blog
+#    url: '/blog/'
+#    weight: 65
+  - name: Contacto
+    url: '#contact'
+    weight: 80
+  - name: Premios
+    url: '#accomplishments'
+    weight: 90

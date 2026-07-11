@@ -1,5 +1,5 @@
 ---
-title: "[ES] Publications and Preprints"
+title: "Publicaciones"
 
 # View.
 #   1 = List

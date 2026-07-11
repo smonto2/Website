@@ -87,6 +87,12 @@
 - id: btn_source
   translation: Source Document
 
+- id: btn_arxiv
+  translation: arXiv
+
+- id: under_submission
+  translation: Under Submission
+
 - id: btn_copy
   translation: Copy
 
@@ -179,6 +185,9 @@
 
 - id: pub_preprint
   translation: Preprint
+
+- id: pub_wip
+  translation: Work in Progress
 
 - id: pub_report
   translation: Report

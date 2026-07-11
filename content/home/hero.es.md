@@ -3,10 +3,10 @@ active: false
 cta:
   icon: download
   icon_pack: fas
-  label: "[ES] Get Started"
+  label: "Comenzar"
   url: https://sourcethemes.com/academic/docs/install/
 cta_alt:
-  label: "[ES] View Documentation"
+  label: "Ver Documentación"
   url: https://sourcethemes.com/academic/
 cta_note:
   label: <a class="js-github-release" href="https://sourcethemes.com/academic/updates"
@@ -18,13 +18,11 @@ design:
     text_color_light: true
 headless: true
 hero_media: hero-academic.png
-title: "[ES] Academic"
+title: "Académico"
 weight: 10
 widget: hero
 ---
 
-_[ES] Traducción pendiente — texto original en inglés a continuación:_
+**La Mejor Manera de Crear el Sitio Web que Deseas a partir de Markdown (o Jupyter/RStudio)**
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
-
-Build **Anything** with Widgets
+Construye **Cualquier Cosa** con Widgets

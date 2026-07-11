@@ -3,10 +3,10 @@ active: false
 feature:
 - icon: money-bill-alt
   icon_pack: fas
-  name: "[ES] Economics"
+  name: "Economía"
 - icon: chart-bar
   icon_pack: fas
-  name: "[ES] Statistics"
+  name: "Estadística"
 - icon: r-project
   icon_pack: fab
   name: R
@@ -21,7 +21,7 @@ feature:
   name: Overleaf
 headless: true
 subtitle: ''
-title: "[ES] Skills"
+title: "Habilidades"
 weight: 20
 widget: featurette
 ---

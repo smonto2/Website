@@ -24,7 +24,7 @@ abstract: "We introduce a Bayesian instrumental variable procedure with spatial 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Bayesian estimation", "Endogeneity", "Instruments", "Simultaneous equations", "Spatial random effects", "Welfare analysis"]
+tags: ["Bayesian methods", "Endogeneity", "Instruments", "Simultaneous equations", "Spatial random effects", "Welfare analysis"]
 categories: ["Econometrics", "Bayesian", "Spatial", "IV"]
 featured: false
 

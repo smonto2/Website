@@ -4,7 +4,9 @@ advanced:
   css_class: ''
   css_style: ''
 content:
-  count: 3
+  archive:
+    enable: false
+  count: 5
   filters:
     category: ''
     exclude_featured: true
@@ -18,12 +20,11 @@ design:
   view: 4
 headless: true
 subtitle: ''
-title: "[ES] Research"
+title: "Investigación"
 weight: 30
 widget: pages
 ---
 
-_[ES] Traducción pendiente — texto original en inglés a continuación:_
-
-[!important]
-[Click here for a full list with abstracts and links.]({{< ref "/publication/_index.md" >}})
+{{% callout note %}}
+[Haga clic aquí para ver la lista completa de publicaciones con resúmenes y enlaces.]({{< ref "/publication/_index.md" >}})
+{{% /callout %}}

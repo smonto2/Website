@@ -13,7 +13,7 @@ design:
   view: 3
 headless: true
 subtitle: ''
-title: "[ES] Projects"
+title: "Proyectos"
 weight: 65
 widget: portfolio
 ---

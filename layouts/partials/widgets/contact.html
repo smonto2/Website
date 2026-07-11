@@ -129,7 +129,12 @@
       {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
     {{ end }}
     <li>
-      <i class="fa-li {{ $pack }} {{ $pack_prefix }}-{{ .icon }} fa-2x" aria-hidden="true"></i>
+      {{ if eq $pack "custom" }}
+        {{ $svg_icon := resources.Get (printf "media/icons/%s.svg" .icon) }}
+        {{ if $svg_icon }}<span class="fa-li fa-2x">{{ $svg_icon.Content | safeHTML }}</span>{{ end }}
+      {{ else }}
+        <i class="fa-li {{ $pack }} {{ $pack_prefix }}-{{ .icon }} fa-2x" aria-hidden="true"></i>
+      {{ end }}
       <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>{{.name|markdownify|emojify|safeHTML}}</a>
     </li>
     {{ end }}

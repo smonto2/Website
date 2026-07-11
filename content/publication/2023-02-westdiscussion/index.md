@@ -24,7 +24,7 @@ abstract: "We provide a discussion of “Multivariate dynamic modeling for Bayes
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Bayesian estimation", "Forecasting"]
+tags: ["Bayesian methods", "Forecasting"]
 categories: ["Econometrics", "Discussion"]
 featured: false
 
@@ -67,5 +67,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-=======
->>>>>>> parent of aa4f5de (Updated citations and added discussion paper)

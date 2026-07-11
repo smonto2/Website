@@ -4,7 +4,9 @@ advanced:
   css_class: ''
   css_style: ''
 content:
-  count: 3
+  archive:
+    enable: false
+  count: 5
   filters:
     category: ''
     exclude_featured: true
@@ -23,5 +25,6 @@ weight: 30
 widget: pages
 ---
 
-[!important]
-[Click here for a full list with abstracts and links.]({{< ref "/publication/_index.md" >}})
+{{% callout note %}}
+[Click here for a full list of publications with abstracts and links.]({{< ref "/publication/_index.md" >}})
+{{% /callout %}}

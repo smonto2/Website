@@ -52,6 +52,10 @@
   translation: Poster
 - id: btn_source
   translation: Documento fuente
+- id: btn_arxiv
+  translation: arXiv
+- id: under_submission
+  translation: En proceso de revisión
 - id: btn_copy
   translation: Copiar
 - id: btn_download
@@ -106,6 +110,8 @@
   translation: Artículo de revista
 - id: pub_preprint
   translation: Prepublicación
+- id: pub_wip
+  translation: "[ES] Work in Progress"
 - id: pub_report
   translation: Informe
 - id: pub_book

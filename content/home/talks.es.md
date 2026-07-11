@@ -20,7 +20,7 @@ design:
   view: 2
 headless: true
 subtitle: ''
-title: "[ES] Recent & Upcoming Talks"
+title: "Charlas Recientes y Próximas"
 weight: 70
 widget: pages
 ---

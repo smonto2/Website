@@ -48,8 +48,12 @@ div.alert-warning > div:first-child::before {
 .article-style aside a,
 div.alert a {
   color: currentColor;
-  text-decoration: none;
-  border-bottom: solid 1px currentColor;
+  text-decoration: none !important;
+}
+
+.article-style aside a:hover,
+div.alert a:hover {
+  text-decoration: underline !important;
 }
 
 .article-style aside,

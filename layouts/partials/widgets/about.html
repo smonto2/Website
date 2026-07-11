@@ -59,7 +59,12 @@
         {{ end }}
         <li>
           <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
-            <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+            {{ if eq $pack "custom" }}
+              {{ $svg_icon := resources.Get (printf "media/icons/%s.svg" .icon) }}
+              {{ if $svg_icon }}<span class="big-icon">{{ $svg_icon.Content | safeHTML }}</span>{{ end }}
+            {{ else }}
+              <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+            {{ end }}
           </a>
         </li>
         {{ end }}

@@ -6,20 +6,20 @@ experience:
   company_url: ''
   date_end: ''
   date_start: '2017-01-01'
-  description: "[ES]  Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *\
-    \ Deploying\n  "
+  description: "  Responsabilidades:\n  \n  * Analizar\n  * Modelar\n  *\
+    \ Implementar\n  "
   location: California
-  title: "[ES] CEO"
+  title: "Director Ejecutivo (CEO)"
 - company: University X
   company_url: ''
   date_end: '2016-12-31'
   date_start: '2016-01-01'
-  description: "[ES] Taught electronic engineering and researched semiconductor physics."
+  description: "Enseñó ingeniería electrónica e investigó física de semiconductores."
   location: California
-  title: "[ES] Professor"
+  title: "Profesor"
 headless: true
 subtitle: ''
-title: "[ES] Experience"
+title: "Experiencia"
 weight: 40
 widget: experience
 ---

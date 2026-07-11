@@ -4,13 +4,15 @@ advanced:
   css_class: ''
   css_style: ''
 content:
-  count: 0
+  archive:
+    enable: false
+  count: 5
   filters:
     category: ''
-    publication_type: '3'
+    only_featured: true
     tag: ''
   order: desc
-  page_type: publication
+  page_type: workingpaper
 design:
   background: {}
   view: 1
@@ -21,3 +23,6 @@ weight: 20
 widget: pages
 ---
 
+{{% callout note %}}
+[Click here for a full list of pre-prints with abstracts and links.]({{< ref "/workingpaper/_index.md" >}})
+{{% /callout %}}

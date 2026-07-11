@@ -24,7 +24,7 @@ abstract: "We propose a Bayesian estimation procedure for the generalized Bass m
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Bayesian estimation", "Diffusion", "Forecast by analogy", "Generalized Bass model", "Pre-launch forecast"]
+tags: ["Bayesian methods", "Diffusion", "Forecast by analogy", "Generalized Bass model", "Pre-launch forecast"]
 categories: ["Econometrics", "Forecasting", "Bayesian"]
 featured: false
 

@@ -49,7 +49,7 @@ education:
 social:
 - icon: cv
   icon_pack: ai
-  link: https://gla-my.sharepoint.com/:b:/g/personal/santiago_montoya-blandon_glasgow_ac_uk/Ec526oISSORIvQemt5Is6ZgBSRvSZZ0f0XG89okeXKW2oQ?e=hRPnlB
+  link: https://smontoy.netlify.com/cv.pdf
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=QXGZsqIAAAAJ
@@ -62,7 +62,7 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Santiago_Montoya-Blandon
-- icon: scopus
+- icon: elsevier
   icon_pack: ai
   link: https://www.scopus.com/authid/detail.uri?authorId=57192829740
 - icon: github
@@ -71,9 +71,9 @@ social:
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/santiago-montoya-blandon/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/smontoyablandon
+- icon: x-twitter
+  icon_pack: custom
+  link: https://x.com/smontoyablandon
 #- icon: windows
 #  icon_pack: fab
 #  link: https://academic.microsoft.com/profile/gi21f79h-j8e5-49eg-f2jh-39747767658i/SantiagoMontoya-Bland%C3%83%C2%B3n/publication/search?q=Santiago%20Montoya-Bland%C3%B3n&qe=%2540%2540%2540USER.PUBLICATIONS%253Dce21b79d-f8a5-49ac-b2fd-39747767658e&f=&orderBy=0

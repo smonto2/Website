@@ -40,11 +40,11 @@
 
 {{/* Localisation */}}
 {{ $i18n := "" }}
-{{ if eq $items_type "post" }}
+{{ if in (slice "post" "blog") $items_type }}
   {{ $i18n = "more_posts" }}
 {{ else if eq $items_type "event" }}
   {{ $i18n = "more_talks" }}
-{{ else if eq $items_type "publication" }}
+{{ else if in (slice "publication" "workingpaper") $items_type }}
   {{ $i18n = "more_publications" }}
 {{ else }}
   {{ $i18n = "more_pages" }}

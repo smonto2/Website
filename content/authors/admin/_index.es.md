@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "[ES] Lecturer in Econometrics"
+role: "Profesor de Econometría"
 
 # Organizations/Affiliations
 organizations:
@@ -22,23 +22,23 @@ organizations:
 # bio: My research interests include theoretical and applied econometrics, Bayesian methods, and focus on microeconomic applications.
 
 interests:
-- "[ES] Econometrics"
-- "[ES] Bayesian statistics"
-- "[ES] Applied microeconomics"
-- "[ES] Networks and spatial data"
+- "Econometría"
+- "Estadística bayesiana"
+- "Microeconomía aplicada"
+- "Redes y datos espaciales"
 
 education:
   courses:
-  - course: "[ES] PhD in Economics"
+  - course: "Doctorado en Economía"
     institution: Emory University
     year: 2021
-  - course: "[ES] MA in Economics"
+  - course: "Maestría en Economía"
     institution: Emory University
     year: 2019
-  - course: "[ES] MsC in Economics"
+  - course: "Maestría en Ciencias Económicas"
     institution: Universidad EAFIT
     year: 2015
-  - course: "[ES] BA in Economics"
+  - course: "Pregrado en Economía"
     institution: Universidad EAFIT
     year: 2013
 
@@ -46,7 +46,7 @@ education:
 social:
 - icon: cv
   icon_pack: ai
-  link: https://gla-my.sharepoint.com/:b:/g/personal/santiago_montoya-blandon_glasgow_ac_uk/Ec526oISSORIvQemt5Is6ZgBSRvSZZ0f0XG89okeXKW2oQ?e=hRPnlB
+  link: https://smontoy.netlify.com/cv.pdf
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=QXGZsqIAAAAJ
@@ -59,7 +59,7 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Santiago_Montoya-Blandon
-- icon: scopus
+- icon: elsevier
   icon_pack: ai
   link: https://www.scopus.com/authid/detail.uri?authorId=57192829740
 - icon: github
@@ -68,9 +68,9 @@ social:
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/santiago-montoya-blandon/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/smontoyablandon
+- icon: x-twitter
+  icon_pack: custom
+  link: https://x.com/smontoyablandon
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -81,8 +81,6 @@ email: ""
 #- Visitors
 ---
 
-_[ES] Traducción pendiente — texto original en inglés a continuación:_
+Soy Profesor (Assistant Professor) de Econometría en la [Adam Smith Business School](https://www.gla.ac.uk/schools/business/) de la [Universidad de Glasgow](https://www.gla.ac.uk/). Soy originario de Colombia, donde realicé tanto mis estudios de pregrado como de maestría; posteriormente me trasladé a Atlanta (Estados Unidos) para cursar mi doctorado, y actualmente resido en la hermosa Escocia.
 
-I am a Lecturer (Assistant Professor) in Econometrics for the [Adam Smith Business School](https://www.gla.ac.uk/schools/business/) at the [University of Glasgow](https://www.gla.ac.uk/). I am originally from Colombia, where I did both my undegraduate and master's, moved to Atlanta (US) for my PhD, and currently reside in beautiful Scotland.
-
-My research work covers theoretical and applied econometrics, with a focus on Bayesian methods, and attempts to present rigorous solutions to problems that arise in applied economic settings. Currently, I am particularly interested in the challenges inherent to networks and spatial data. I am also passionate about teaching and have taught several courses across the world in Econometrics and Bayesian methods at an undergraduate and graduate level.
+Mi trabajo de investigación abarca la econometría teórica y aplicada, con énfasis en métodos bayesianos, y busca ofrecer soluciones rigurosas a problemas que surgen en contextos económicos aplicados. Actualmente me interesan particularmente los desafíos inherentes a las redes y los datos espaciales. También me apasiona la docencia y he impartido varios cursos de Econometría y métodos bayesianos, tanto de pregrado como de posgrado, en distintas partes del mundo.

@@ -17,20 +17,20 @@ content:
 
   # Contact details (edit or remove options as required)
   email: 'santiago.montoya-blandon@glasgow.ac.uk'
-  phone: +44 (0) 141 330 8039, Ext. 5354
+  phone: +44 (0)141 330 3993
   address:
-    street: Room 664, Guilbert Scott Building, University Avenue
+    street: Room 620, Adam Smith Business School Building, 2 Discovery Place
     city: Glasgow
     region: 
-    postcode: 'G12 8QQ'
+    postcode: 'G11 6EY'
     country: United Kingdom
     country_code: UK
   directions:
   contact_links:
-    - icon: twitter
-      icon_pack: fab
+    - icon: x-twitter
+      icon_pack: custom
       name: '@SMontoyaBlandon'
-      link: 'https://twitter.com/SMontoyaBlandon/'
+      link: 'https://x.com/SMontoyaBlandon/'
 
 design:
   columns: '2'

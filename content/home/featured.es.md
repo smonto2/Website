@@ -4,19 +4,25 @@ advanced:
   css_class: ''
   css_style: ''
 content:
-  count: 0
+  archive:
+    enable: false
+  count: 5
   filters:
     category: ''
-    publication_type: '3'
+    only_featured: true
     tag: ''
   order: desc
-  page_type: publication
+  page_type: workingpaper
 design:
   background: {}
   view: 1
 headless: true
 subtitle: ''
-title: "[ES] Working Papers"
+title: "Documentos de Trabajo"
 weight: 20
 widget: pages
 ---
+
+{{% callout note %}}
+[Haga clic aquí para ver la lista completa de documentos de trabajo con resúmenes y enlaces.]({{< ref "/workingpaper/_index.md" >}})
+{{% /callout %}}

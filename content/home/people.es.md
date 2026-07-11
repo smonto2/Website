@@ -17,7 +17,7 @@ design:
   show_social: false
 headless: true
 subtitle: ''
-title: "[ES] Meet the Team"
+title: "Conoce al Equipo"
 weight: 68
 widget: people
 ---

@@ -44,7 +44,7 @@
   {{end}}
 
   <div class="section-subheading article-title mb-1 mt-3">
-    <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>
+    <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>{{ if $item.Params.under_submission }} <span class="badge badge-pill badge-warning align-middle">{{ i18n "under_submission" | default "Under Submission" }}</span>{{ end }}
   </div>
 
   {{ with $summary }}

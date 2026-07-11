@@ -5,27 +5,27 @@ height: ''
 interval: false
 item:
 - align: center
-  content: "[ES] I am center aligned :smile:"
+  content: "Estoy centrado :smile:"
   cta_icon: graduation-cap
   cta_icon_pack: fas
-  cta_label: "[ES] Get Academic"
+  cta_label: "Ir a Académico"
   cta_url: https://sourcethemes.com/academic/
   overlay_color: '#666'
   overlay_filter: 0.5
   overlay_img: headers/bubbles-wide.jpg
-  title: "[ES] Hello"
+  title: "Hola"
 - align: left
-  content: "[ES] I am left aligned :smile:"
+  content: "Estoy alineado a la izquierda :smile:"
   overlay_color: '#555'
   overlay_filter: 0.5
   overlay_img: ''
-  title: "[ES] Left"
+  title: "Izquierda"
 - align: right
-  content: "[ES] I am right aligned :smile:"
+  content: "Estoy alineado a la derecha :smile:"
   overlay_color: '#333'
   overlay_filter: 0.5
   overlay_img: ''
-  title: "[ES] Right"
+  title: "Derecha"
 weight: 1
 widget: slider
 ---
