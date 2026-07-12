@@ -26,7 +26,7 @@
 
 <div class="view-list-item">
   <i class="{{$icon_pack}} {{$icon}} pub-icon" aria-hidden="true"></i>
-  <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>{{ if $item.Params.under_submission }} <span class="badge badge-pill badge-warning align-middle">{{ i18n "under_submission" | default "Under Submission" }}</span>{{ end }}
+  <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>{{ if in $item.Params.publication_types "9" }} <span class="badge badge-pill badge-secondary align-middle">{{ i18n "pub_wip" | default "Work in Progress" }}</span>{{ end }}{{ if $item.Params.under_submission }} <span class="badge badge-pill badge-warning align-middle">{{ i18n "under_submission" | default "Under Submission" }}</span>{{ end }}
 
   {{ if eq $item.Type "event" }}
   <div class="article-metadata">

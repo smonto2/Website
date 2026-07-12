@@ -36,6 +36,10 @@
   margin-bottom: 0;
 }
 
+.experience .article-metadata a:hover {
+  text-decoration: none;
+}
+
 .experience .m-2 .border,
 .experience .col.border-right {
   border-color: $sta-primary !important;

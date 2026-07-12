@@ -111,7 +111,7 @@
 - id: pub_preprint
   translation: Prepublicación
 - id: pub_wip
-  translation: "[ES] Work in Progress"
+  translation: "Trabajo en Progreso"
 - id: pub_report
   translation: Informe
 - id: pub_book

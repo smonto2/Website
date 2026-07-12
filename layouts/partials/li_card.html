@@ -44,15 +44,13 @@
   {{end}}
 
   <div class="section-subheading article-title mb-1 mt-3">
-    <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>{{ if $item.Params.under_submission }} <span class="badge badge-pill badge-warning align-middle">{{ i18n "under_submission" | default "Under Submission" }}</span>{{ end }}
+    <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>{{ if in $item.Params.publication_types "9" }} <span class="badge badge-pill badge-secondary align-middle">{{ i18n "pub_wip" | default "Work in Progress" }}</span>{{ end }}{{ if $item.Params.under_submission }} <span class="badge badge-pill badge-warning align-middle">{{ i18n "under_submission" | default "Under Submission" }}</span>{{ end }}
   </div>
 
   {{ with $summary }}
-  <a href="{{ $item.RelPermalink }}" class="summary-link">
-    <div class="article-style">
-      <p>{{.}}</p>
-    </div>
-  </a>
+  <div class="article-style">
+    <p>{{.}}</p>
+  </div>
   {{ end }}
 
   {{ if $has_attachments }}

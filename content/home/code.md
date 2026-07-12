@@ -12,7 +12,7 @@ widget: blank
 [Click here for details on research code.]({{< ref "/code/_index.md" >}})
 {{% /callout %}}
 
-- [`ginormal` (R)](https://cran.r-project.org/package=ginormal)
-- [`ginormal` (Python)](https://pypi.org/project/ginormal/)
 - [`ginormal` on GitHub](https://github.com/smonto2/ginormal)
+  - [R package](https://cran.r-project.org/package=ginormal)
+  - [Python package](https://pypi.org/project/ginormal/)
 - [Supplement to "Forecasting from Others' Experience..." (2019)](/publication/2019-10-gbm/supplement.zip)

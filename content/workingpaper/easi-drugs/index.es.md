@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Probabilistic Targeted Factor Analysis"
-authors: [M.C. Herculano and S. Montoya-Blandón]
-date: 2024-12-09T00:00:00-05:00
+title: "Estimating Demand Systems with Unobserved Heterogeneity and Censoring: Evidence from Illicit Drug Markets in Colombia"
+authors: [S. Montoya-Blandón and A. Ramírez-Hassan]
+date: 2025-03-25T00:00:00-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-12-09T00:00:00-05:00
+publishDate: 2025-03-25T00:00:00-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +19,13 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "We develop Probabilistic Targeted Factor Analysis (PTFA), a likelihood-based framework for constructing latent factors that are explicitly targeted to variables of economic interest. PTFA provides a probabilistic foundation for Partial Least Squares, allowing supervised factor extraction under uncertainty. The model is estimated via a fast expectation maximization algorithm and naturally accommodates missing data, mixed-frequency observations, stochastic volatility, and factor dynamics. Simulation evidence shows that PTFA improves recovery of economically relevant latent factors relative to standard PLS, particularly in noisy environments. Applications to financial conditions indices, macroeconomic forecasting, and equity premium prediction illustrate the measurement and forecasting gains delivered by targeted probabilistic factor extraction."
+abstract: 'The response of illicit drug consumers to policy changes like legalization is mediated by demand behavior. Since individual drug use is driven by many unobservable factors, accounting for unobserved heterogeneity becomes crucial for designing targeted policies. This paper introduces a finite Gaussian mixture of EASI demand systems to estimate joint demand for marijuana, cocaine, and basuco (a low-purity cocaine paste) in Colombia, accounting for corner solutions and endogenous prices. Our method classifies users into two groups with distinct preferences over consumption: "soft" and "hard" users. Nationally representative survey estimates find drugs are unit-elastic, with marijuana and cocaine complementary. International marijuana legalization episodes along with Colombia''s low marijuana production cost suggest legalization is likely to drive prices down significantly. Legalization counterfactuals under the most likely scenario of a 50% marijuana price decrease reveal \\$363/year welfare gains for consumers, \\$120M in government revenue, and \\$127M dealer losses.'
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Factor Models", "Partial Least Squares", "EM Algorithm", "Financial Conditions", "Forecasting"]
-categories: ["Econometrics", "Finance", "Macroeconomics"]
+tags: ["Sistemas de Demanda", "EASI", "Política de Drogas", "Modelos de Mezcla Finita", "Precios Endógenos"]
+categories: ["Econometría", "Microeconomía Aplicada", "Métodos Bayesianos", "Variables Dependientes Limitadas", "Variables Instrumentales"]
 featured: true
 under_submission: true
 
@@ -43,7 +43,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: "https://arxiv.org/abs/2412.06688"
+url_source: "https://arxiv.org/abs/2503.20100"
 url_video:
 
 # Featured image

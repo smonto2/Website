@@ -5,7 +5,7 @@
 
 main:
   - name: CV
-    url: 'https://smontoy.netlify.com/cv.pdf'
+    url: '/cv.pdf'
     weight: 20
   - name: Working Papers
     url: '/workingpaper/'
@@ -22,9 +22,9 @@ main:
 #  - name: Blog
 #    url: '/blog/'
 #    weight: 65
+  - name: Funding and Awards
+    url: '#accomplishments'
+    weight: 80
   - name: Contact
     url: '#contact'
-    weight: 80
-  - name: Awards
-    url: '#accomplishments'
     weight: 90

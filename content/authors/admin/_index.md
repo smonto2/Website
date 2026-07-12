@@ -14,8 +14,9 @@ role: Lecturer in Econometrics
 
 # Organizations/Affiliations
 organizations:
+- name: Adam Smith Business School
+  url: "https://www.gla.ac.uk/schools/business/staff/santiagomontoyablandon/"
 - name: University of Glasgow
-        Adam Smith Business School
   url: "https://www.gla.ac.uk/schools/business/staff/santiagomontoyablandon/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -49,7 +50,7 @@ education:
 social:
 - icon: cv
   icon_pack: ai
-  link: https://smontoy.netlify.com/cv.pdf
+  link: /cv.pdf
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=QXGZsqIAAAAJ

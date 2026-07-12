@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Marijuana and Tobacco Consumption in Colombia: A Bayesian Zero-Inflated Ordered Probit"
-authors: [A. Pinilla-Barrera, A. Ramírez-Hassan and S. Montoya-Blandón]
-date: 2026-06-16T00:00:00-05:00
+title: "Probabilistic Targeted Factor Analysis"
+authors: [M.C. Herculano and S. Montoya-Blandón]
+date: 2024-12-09T00:00:00-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2026-06-16T00:00:00-05:00
+publishDate: 2024-12-09T00:00:00-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,14 +19,14 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "This paper develops a Bayesian implementation of the zero-inflated ordered probit model introduced in Harris and Zhao (2007), providing a broad replication of the frequentist method and extending the original paper with a Bayesian implementation. Posterior distributions naturally propagate parameter uncertainty to non-linear quantities of interest—participation, consumption intensity, and associated marginal effects—without relying on asymptotic approximations such as the delta method. Performance is assessed through Monte Carlo experiments compared against maximum likelihood estimation, with empirical applications to marijuana and tobacco consumption in Colombia. Results confirm the Bayesian approach reproduces original substantive findings while providing a coherent framework for structural inference."
+abstract: "We develop Probabilistic Targeted Factor Analysis (PTFA), a likelihood-based framework for constructing latent factors that are explicitly targeted to variables of economic interest. PTFA provides a probabilistic foundation for Partial Least Squares, allowing supervised factor extraction under uncertainty. The model is estimated via a fast expectation maximization algorithm and naturally accommodates missing data, mixed-frequency observations, stochastic volatility, and factor dynamics. Simulation evidence shows that PTFA improves recovery of economically relevant latent factors relative to standard PLS, particularly in noisy environments. Applications to financial conditions indices, macroeconomic forecasting, and equity premium prediction illustrate the measurement and forecasting gains delivered by targeted probabilistic factor extraction."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Bayesian methods", "Zero-inflated ordered probit", "Psychoactive substance consumption", "Hamiltonian Monte Carlo"]
-categories: ["Econometrics", "Bayesian", "Limited Dependent Variables", "Applied Microeconomics"]
-featured: false
+tags: ["Modelos de Factores", "Mínimos Cuadrados Parciales", "Algoritmo EM", "Condiciones Financieras", "Pronósticos"]
+categories: ["Econometría", "Finanzas", "Macroeconomía"]
+featured: true
 under_submission: true
 
 # Custom links (optional).
@@ -37,13 +37,13 @@ under_submission: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "bayesian-ziop.pdf"
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: "https://arxiv.org/abs/2412.06688"
 url_video:
 
 # Featured image

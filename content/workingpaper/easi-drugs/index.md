@@ -19,13 +19,13 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "The response of illicit drug consumers to policy changes like legalization is mediated by demand behavior. Since individual drug use is driven by many unobservable factors, accounting for unobserved heterogeneity becomes crucial for designing targeted policies. This paper introduces a finite Gaussian mixture of EASI demand systems to estimate joint demand for marijuana, cocaine, and basuco (a low-purity cocaine paste) in Colombia, accounting for corner solutions and endogenous prices. Our method classifies users into two groups with distinct preferences over consumption: \"soft\" and \"hard\" users. Nationally representative survey estimates find drugs are unit-elastic, with marijuana and cocaine complementary. International marijuana legalization episodes along with Colombia's low marijuana production cost suggest legalization is likely to drive prices down significantly. Legalization counterfactuals under the most likely scenario of a 50% marijuana price decrease reveal $363/year welfare gains for consumers, $120M in government revenue, and $127M dealer losses."
+abstract: 'The response of illicit drug consumers to policy changes like legalization is mediated by demand behavior. Since individual drug use is driven by many unobservable factors, accounting for unobserved heterogeneity becomes crucial for designing targeted policies. This paper introduces a finite Gaussian mixture of EASI demand systems to estimate joint demand for marijuana, cocaine, and basuco (a low-purity cocaine paste) in Colombia, accounting for corner solutions and endogenous prices. Our method classifies users into two groups with distinct preferences over consumption: "soft" and "hard" users. Nationally representative survey estimates find drugs are unit-elastic, with marijuana and cocaine complementary. International marijuana legalization episodes along with Colombia''s low marijuana production cost suggest legalization is likely to drive prices down significantly. Legalization counterfactuals under the most likely scenario of a 50% marijuana price decrease reveal \\$363/year welfare gains for consumers, \\$120M in government revenue, and \\$127M dealer losses.'
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags: ["Demand Systems", "EASI", "Drug Policy", "Finite Mixture Models", "Endogenous Prices"]
-categories: ["Econometrics", "Applied Microeconomics"]
+categories: ["Econometrics", "Applied Microeconomics", "Bayesian", "Limited Dependent Variables", "Instrumental Variables"]
 featured: true
 under_submission: true
 

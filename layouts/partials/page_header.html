@@ -62,7 +62,7 @@
 {{end}}
 
 <div class="article-container pt-3">
-  <h1>{{ $title }}{{ if $page.Params.under_submission }} <span class="badge badge-pill badge-warning align-middle">{{ i18n "under_submission" | default "Under Submission" }}</span>{{ end }}</h1>
+  <h1>{{ $title }}{{ if in $page.Params.publication_types "9" }} <span class="badge badge-pill badge-secondary align-middle">{{ i18n "pub_wip" | default "Work in Progress" }}</span>{{ end }}{{ if $page.Params.under_submission }} <span class="badge badge-pill badge-warning align-middle">{{ i18n "under_submission" | default "Under Submission" }}</span>{{ end }}</h1>
 
   {{ with $page.Params.subtitle }}
   <p class="page-subtitle">{{ . | markdownify | emojify }}</p>
@@ -88,7 +88,7 @@
     {{ $ctnr = "universal-wrapper" }}
   {{end}}
 <div class="{{$ctnr}} pt-3">
-  <h1>{{ $title }}{{ if $page.Params.under_submission }} <span class="badge badge-pill badge-warning align-middle">{{ i18n "under_submission" | default "Under Submission" }}</span>{{ end }}</h1>
+  <h1>{{ $title }}{{ if in $page.Params.publication_types "9" }} <span class="badge badge-pill badge-secondary align-middle">{{ i18n "pub_wip" | default "Work in Progress" }}</span>{{ end }}{{ if $page.Params.under_submission }} <span class="badge badge-pill badge-warning align-middle">{{ i18n "under_submission" | default "Under Submission" }}</span>{{ end }}</h1>
 
   {{ with $page.Params.subtitle }}
   <p class="page-subtitle">{{ . | markdownify | emojify }}</p>

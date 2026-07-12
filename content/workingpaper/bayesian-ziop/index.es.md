@@ -24,8 +24,8 @@ abstract: "This paper develops a Bayesian implementation of the zero-inflated or
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Bayesian methods", "Zero-inflated ordered probit", "Psychoactive substance consumption", "Hamiltonian Monte Carlo"]
-categories: ["Econometrics", "Bayesian", "Limited Dependent Variables", "Applied Microeconomics"]
+tags: ["Métodos Bayesianos", "Probit Ordenado Inflado en Cero", "Consumo de Sustancias Psicoactivas", "Monte Carlo Hamiltoniano"]
+categories: ["Econometría", "Métodos Bayesianos", "Variables Dependientes Limitadas", "Microeconomía Aplicada"]
 featured: false
 under_submission: true
 

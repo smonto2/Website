@@ -24,8 +24,8 @@ abstract: "This paper introduces a new econometric framework for modeling social
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Peer Effects", "Network Formation", "Spatial Autoregressive", "Bayesian methods"]
-categories: ["Econometrics", "Networks", "Bayesian", "Applied Microeconomics"]
+tags: ["Efectos entre Pares", "Formación de Redes", "Autorregresivo Espacial", "Métodos Bayesianos"]
+categories: ["Econometría", "Redes", "Métodos Bayesianos", "Microeconomía Aplicada"]
 featured: true
 
 # Custom links (optional).

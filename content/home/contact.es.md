@@ -6,7 +6,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 90
 
 title: "Contacto"
 subtitle:
@@ -19,11 +19,11 @@ content:
   email: 'santiago.montoya-blandon@glasgow.ac.uk'
   phone: +44 (0)141 330 3993
   address:
-    street: Room 620, Adam Smith Business School Building, 2 Discovery Place
+    street: "Oficina 620, Edificio Adam Smith Business School, 2 Discovery Place"
     city: Glasgow
     region:
     postcode: 'G11 6EY'
-    country: United Kingdom
+    country: "Reino Unido"
     country_code: UK
   directions:
   contact_links:

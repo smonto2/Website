@@ -26,5 +26,5 @@ widget: pages
 ---
 
 {{% callout note %}}
-[Haga clic aquí para ver la lista completa de publicaciones con resúmenes y enlaces.]({{< ref "/publication/_index.md" >}})
+[Clic aquí para la lista completa con resúmenes y enlaces.]({{< ref "/publication/_index.md" >}})
 {{% /callout %}}

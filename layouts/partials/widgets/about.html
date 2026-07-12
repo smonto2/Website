@@ -53,10 +53,16 @@
         {{ $scheme := (urls.Parse $link).Scheme }}
         {{ $target := "" }}
         {{ if not $scheme }}
-          {{ $link = .link | relLangURL }}
+          {{/* Static files (e.g. a CV PDF) are shared across all languages, so skip the language-prefixing that relLangURL would otherwise apply. */}}
+          {{ if findRE `\.[a-zA-Z0-9]+$` .link }}
+            {{ $link = .link | relURL }}
+          {{ else }}
+            {{ $link = .link | relLangURL }}
+          {{ end }}
         {{ else if in (slice "http" "https") $scheme }}
           {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
         {{ end }}
+        {{ if eq .icon "github" }}<li class="w-100" style="height: 0;"></li>{{ end }}
         <li>
           <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
             {{ if eq $pack "custom" }}

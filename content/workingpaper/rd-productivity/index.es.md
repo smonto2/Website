@@ -24,8 +24,8 @@ abstract: "We introduce heterogeneous R&D productivities into an endogenous R&D 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Network Formation", "R&D", "Innovation", "Game Theory"]
-categories: ["Networks", "Industrial Organization", "Theory"]
+tags: ["Formación de Redes", "I+D", "Innovación", "Teoría de Juegos"]
+categories: ["Redes", "Organización Industrial", "Teoría"]
 featured: true
 under_submission: true
 

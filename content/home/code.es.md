@@ -9,10 +9,10 @@ widget: blank
 ---
 
 {{% callout note %}}
-[Haga clic aquí para ver detalles sobre código de investigación y docencia.]({{< ref "/code/_index.md" >}})
+[Clic aquí para ver detalles sobre código asociado a investigación.]({{< ref "/code/_index.md" >}})
 {{% /callout %}}
 
-- [`ginormal` (R)](https://cran.r-project.org/package=ginormal)
-- [`ginormal` (Python)](https://pypi.org/project/ginormal/)
 - [`ginormal` en GitHub](https://github.com/smonto2/ginormal)
+  - [Paquete de R](https://cran.r-project.org/package=ginormal)
+  - [Paquete de Python](https://pypi.org/project/ginormal/)
 - [Material complementario para "Forecasting from Others' Experience..." (2019)](/publication/2019-10-gbm/supplement.zip)

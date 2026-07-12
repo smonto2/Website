@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Nonlinear Panel Data Methods for Multivariate Fractional Outcomes"
+title: "Copula Estimation and Variable Selection with Multivariate Fractional Outcomes"
 authors: [S. Montoya-Blandón]
-date: 2022-02-08T20:43:27-05:00
+date: 2021-02-08T20:43:27-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,13 +19,13 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "This paper expands the applied researcher's toolkit for dealing with nonlinear panel data models with unobserved heterogeneity using multivariate fractional outcomes. It presents a wide range of methods that include maximum likelihood estimation for identifying the parameters of a conditional mean, a simple probit approach to identify average partial effects, and a Bayesian estimator from a latent dependent variable specification to account for corner outcomes. I then show how all these methods can be modified to handle continuous endogenous covariates. A range of simulation exercises showcase the comparative advantages of each method and how they might be used to approach different situations that arise in applied microeconomics."
+abstract: "This paper introduces a unified estimation methodology using copulas for multivariate fractional outcomes with a conditional mean specification. These outcomes are defined as vectors where each component is bounded to the unit interval and together they add up to 1. The methods satisfy the fractional and unit-sum constraints while allowing for cross-equation restrictions among the conditional mean parameters, which are crucial in applications to structural estimation. While ultimately Bayesian in nature, the paper rigorously examines the asymptotic properties of the arising frequentist estimators, as they are themselves additions to the literature. The methodology is augmented to handle variable selection using regularization in a Bayesian framework. A range of numerical exercises evaluate the properties of the estimators and showcase their flexibility in examples of both structural and reduced form models. An empirical application to transportation expenditures in Canada is also presented."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Multivariate fractional outcomes", "Bayesian methods"]
-categories: ["Econometrics", "Applied Microeconomics", "Bayesian", "Limited Dependent Variables", "Instrumental Variables"]
+tags: ["Resultados Fraccionarios Multivariados", "Cópula", "Métodos Bayesianos", "Selección de Variables", "Estimación de Demanda"]
+categories: ["Econometría", "Métodos Bayesianos", "Variables Dependientes Limitadas"]
 featured: false
 
 # Custom links (optional).
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "jmp.pdf"
 url_code:
 url_dataset:
 url_poster:

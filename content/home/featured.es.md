@@ -24,5 +24,5 @@ widget: pages
 ---
 
 {{% callout note %}}
-[Haga clic aquí para ver la lista completa de documentos de trabajo con resúmenes y enlaces.]({{< ref "/workingpaper/_index.md" >}})
+[Clic aquí para la lista completa con resúmenes y enlaces.]({{< ref "/workingpaper/_index.md" >}})
 {{% /callout %}}

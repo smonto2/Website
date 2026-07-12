@@ -10,12 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: "Profesor de Econometría"
+role: "Profesor Asistente (Econometría)"
 
 # Organizations/Affiliations
 organizations:
-- name: University of Glasgow
-        Adam Smith Business School
+- name: Escuela de Negocios Adam Smith
+  url: "https://www.gla.ac.uk/schools/business/staff/santiagomontoyablandon/"
+- name: Universidad de Glasgow
   url: "https://www.gla.ac.uk/schools/business/staff/santiagomontoyablandon/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -32,10 +33,10 @@ education:
   - course: "Doctorado en Economía"
     institution: Emory University
     year: 2021
-  - course: "Maestría en Economía"
+  - course: "Maestría en Economía (MA)"
     institution: Emory University
     year: 2019
-  - course: "Maestría en Ciencias Económicas"
+  - course: "Maestría en Economía (MSc)"
     institution: Universidad EAFIT
     year: 2015
   - course: "Pregrado en Economía"
@@ -46,7 +47,7 @@ education:
 social:
 - icon: cv
   icon_pack: ai
-  link: https://smontoy.netlify.com/cv.pdf
+  link: /cv.pdf
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=QXGZsqIAAAAJ
@@ -81,6 +82,6 @@ email: ""
 #- Visitors
 ---
 
-Soy Profesor (Assistant Professor) de Econometría en la [Adam Smith Business School](https://www.gla.ac.uk/schools/business/) de la [Universidad de Glasgow](https://www.gla.ac.uk/). Soy originario de Colombia, donde realicé tanto mis estudios de pregrado como de maestría; posteriormente me trasladé a Atlanta (Estados Unidos) para cursar mi doctorado, y actualmente resido en la hermosa Escocia.
+Soy Profesor Asistente (Lecturer) en Econometría para la [Escuela de Negocios Adam Smith](https://www.gla.ac.uk/schools/business/) de la [Universidad de Glasgow](https://www.gla.ac.uk/). Soy originario de Colombia, donde realicé tanto mis estudios de pregrado como de maestría; posteriormente me trasladé a Atlanta (Estados Unidos) para cursar mi doctorado, y actualmente resido en la hermosa Escocia.
 
-Mi trabajo de investigación abarca la econometría teórica y aplicada, con énfasis en métodos bayesianos, y busca ofrecer soluciones rigurosas a problemas que surgen en contextos económicos aplicados. Actualmente me interesan particularmente los desafíos inherentes a las redes y los datos espaciales. También me apasiona la docencia y he impartido varios cursos de Econometría y métodos bayesianos, tanto de pregrado como de posgrado, en distintas partes del mundo.
+Mi trabajo de investigación abarca la econometría teórica y aplicada, con énfasis en métodos bayesianos, y busca ofrecer soluciones rigurosas a problemas que surgen en aplicaciones económicas. Actualmente me interesan particularmente los desafíos inherentes a las redes y los datos espaciales. También me apasiona la docencia y he impartido varios cursos de Econometría y métodos bayesianos, tanto de pregrado como de posgrado, en distintas partes del mundo.

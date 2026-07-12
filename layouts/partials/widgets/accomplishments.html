@@ -36,15 +36,16 @@
               {{ if .date_end}}
               – {{ (time .date_end).Format ($page.Params.date_format | default "Jan 2006") }}
               {{end}}
+
+              {{ with .description }}
+              <span class="middot-divider"></span>
+              {{ . | markdownify | emojify }}
+              {{ end }}
             </div>
 
         {{- if $svg_icon}}
           </div>
         </div>
-        {{end}}
-
-        {{with .description}}
-          <div class="card-text">{{. | markdownify | emojify}}</div>
         {{end}}
 
         {{ with .certificate_url }}
