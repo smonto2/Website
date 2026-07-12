@@ -87,6 +87,9 @@
 - id: btn_source
   translation: Source Document
 
+- id: btn_doi
+  translation: Source
+
 - id: btn_arxiv
   translation: arXiv
 

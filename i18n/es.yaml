@@ -52,6 +52,8 @@
   translation: Poster
 - id: btn_source
   translation: Documento fuente
+- id: btn_doi
+  translation: Fuente
 - id: btn_arxiv
   translation: arXiv
 - id: under_submission

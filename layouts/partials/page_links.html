@@ -133,7 +133,7 @@
 {{ end }}
 {{ with $page.Params.doi }}
 <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="https://doi.org/{{ . }}" target="_blank" rel="noopener">
-  DOI
+  {{ i18n "btn_doi" | default "Source" }}
 </a>
 {{ end }}
 {{ range $page.Params.links }}
