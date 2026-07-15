@@ -10,7 +10,7 @@ A continuación encontrará detalles sobre cada curso, incluyendo diapositivas s
 
 ## Cursos Impartidos
 
-- **ECON5152 --- Network Analysis** (Análisis de Redes): Profesor, Coordinador y Creador del Curso  
+- <a id="econ5152"></a>**ECON5152 --- Network Analysis** (Análisis de Redes): Profesor, Coordinador y Creador del Curso  
   Universidad de Glasgow, *Primavera 2026*
   - **Semana 1:** Introducción a las Redes --- [Diapositivas](/teaching/econ5152_Network_Analysis/Week_1.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_1.ipynb)
   - **Semana 2:** Tipos de Redes y Estadísticas --- [Diapositivas](/teaching/econ5152_Network_Analysis/Week_2.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_2.ipynb)
@@ -24,7 +24,7 @@ A continuación encontrará detalles sobre cada curso, incluyendo diapositivas s
   - **Semana 10:** Temas Avanzados y Redes Complejas --- [Diapositivas](/teaching/econ5152_Network_Analysis/Week_10.pdf) · [Laboratorio](/teaching/econ5152_Network_Analysis/Lab_10.ipynb)
   - Material adicional: [Cuaderno usado para generar las figuras de las diapositivas](/teaching/econ5152_Network_Analysis/Slides_Figures.ipynb)
 
-- **ECON5128 --- MRes Econometrics 2** (Econometría 2): Profesor y Coordinador del Curso  
+- <a id="econ5128"></a>**ECON5128 --- MRes Econometrics 2** (Econometría 2): Profesor y Coordinador del Curso  
   Universidad de Glasgow, *Primavera 2024 -- Primavera 2025*
   - **Semanas 1--2:** Datos de Panel --- [Diapositivas](/teaching/econ5128_Econometrics_2/Week_1-2.pdf)
   - **Semana 3:** GMM Lineal --- [Diapositivas](/teaching/econ5128_Econometrics_2/Week_3.pdf)
@@ -32,13 +32,13 @@ A continuación encontrará detalles sobre cada curso, incluyendo diapositivas s
   - **Semana 7:** Mala Especificación --- [Diapositivas](/teaching/econ5128_Econometrics_2/Week_7.pdf)
   - Material adicional: [Notas de clase (OneNote)](/teaching/econ5128_Econometrics_2/Lecture_Notes.one)
 
-- **ECON5121 --- Microeconometrics: Impact Evaluation and Causal Analysis** (Microeconometría: Evaluación de Impacto y Análisis Causal): Instructor de Laboratorio  
+- <a id="econ5121"></a>**ECON5121 --- Microeconometrics: Impact Evaluation and Causal Analysis** (Microeconometría: Evaluación de Impacto y Análisis Causal): Instructor de Laboratorio  
   Universidad de Glasgow, *Otoño 2022*
 
-- **ECON5002 --- Basic Econometrics** (Econometría Básica): Profesor  
+- <a id="econ5002"></a>**ECON5002 --- Basic Econometrics** (Econometría Básica): Profesor  
   Universidad de Glasgow, *Otoño 2022*
 
-- **ECON5120 --- Bayesian Data Analysis** (Análisis de Datos Bayesiano): Profesor, Instructor de Laboratorio y Coordinador del Curso  
+- <a id="econ5120"></a>**ECON5120 --- Bayesian Data Analysis** (Análisis de Datos Bayesiano): Profesor, Instructor de Laboratorio y Coordinador del Curso  
   Universidad de Glasgow, *Primavera 2022 -- Presente*
   - **Semana 1:** Introducción y Ejemplos de la Regla de Bayes --- [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week_1.pdf) · [Laboratorio](/teaching/econ5120_Bayesian_Data_Analysis/Lab_1.zip)
   - **Semana 2:** Modelo Normal y Expectativas Posteriores --- [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week_2.pdf) · [Laboratorio](/teaching/econ5120_Bayesian_Data_Analysis/Lab_2.zip)
@@ -52,14 +52,14 @@ A continuación encontrará detalles sobre cada curso, incluyendo diapositivas s
   - **Semana 10:** Series de Tiempo y VARs Bayesianos --- [Diapositivas](/teaching/econ5120_Bayesian_Data_Analysis/Week_10.pdf) · [Laboratorio](/teaching/econ5120_Bayesian_Data_Analysis/Lab_10.zip)
   - Material adicional: [Notas de clase sobre Variational Bayes para Regresión Lineal](/teaching/econ5120_Bayesian_Data_Analysis/Lecture_Notes_Variational_Bayes.pdf)
 
-- **ECON5004P / ECON5102P --- Research Methods and Dissertation** (Métodos de Investigación y Tesis): Profesor  
+- <a id="econ5004p"></a>**ECON5004P / ECON5102P --- Research Methods and Dissertation** (Métodos de Investigación y Tesis): Profesor  
   Universidad de Glasgow, *Otoño 2021*
 
-- **ECON 101 --- Principles of Economics** (Principios de Economía): Instructor  
+- <a id="econ101"></a>**ECON 101 --- Principles of Economics** (Principios de Economía): Instructor  
   Universidad Emory, *Primavera 2020*
 
-- **ECO 251 --- Econometrics 2** (Econometría 2): Profesor Adjunto  
+- <a id="eco251"></a>**ECO 251 --- Econometrics 2** (Econometría 2): Profesor Adjunto  
   Universidad EAFIT, *Julio 2015 -- Julio 2016*
 
-- **ECO 250 --- Econometrics 1** (Econometría 1): Profesor Adjunto  
+- <a id="eco250"></a>**ECO 250 --- Econometrics 1** (Econometría 1): Profesor Adjunto  
   Universidad EAFIT, *Julio 2015 -- Julio 2016*

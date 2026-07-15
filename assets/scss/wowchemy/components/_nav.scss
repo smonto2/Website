@@ -21,7 +21,9 @@
 
   // Remove Bootstrap's navbar v-padding and assign v-padding to logo separately to maximise logo size.
   // Otherwise, Bootstrap's navbar v-padding causes issue with logo fitting within fixed 50px height bar in md-lg sizes.
-  padding: 0 1rem;
+  // Horizontal inset trimmed from the default 1rem to give the expanded menu more breathing room
+  // on the right without compressing the nav items further.
+  padding: 0 0.5rem;
 
   .nav-item {
     // For z-index compatibility with logo on mobile layout, otherwise nav-item can't be clicked when logo present.
@@ -47,6 +49,21 @@
 
     .nav-link {
       color: rgba($sta-menu-text, 0.85);
+
+      // Reserve width for the bold state so the navbar never shifts when a
+      // link becomes active: an invisible bold "ghost" of the same label,
+      // stacked under the real text, forces the link to always be as wide
+      // as its bold rendering.
+      position: relative;
+
+      &::before {
+        content: attr(data-text);
+        display: block;
+        height: 0;
+        overflow: hidden;
+        visibility: hidden;
+        font-weight: bold;
+      }
 
       &.active,
       &:hover,
@@ -178,6 +195,12 @@
   white-space: nowrap;
 }
 
+// Reclaim some of the container's default left inset for the navbar specifically
+// (not the general page container) so the menu has more room to breathe on the right.
+#navbar-main .container-xl {
+  padding-left: 0.4rem;
+}
+
 .dark #navbar-main .main-menu-item ul li .nav-link {
   color: $sta-dark-menu-text;
 }
@@ -232,11 +255,13 @@ ul.nav-icons {
 
 ul.nav-icons li {
   display: inline;
-  padding-right: 1rem;
+  padding-right: 0.6rem;
 }
 
 ul.nav-icons li:last-of-type {
-  padding-right: 0;
+  // Not zero: the language dropdown's caret arrow needs a little room on the
+  // right or it gets clipped by the page's overflow-x: hidden.
+  padding-right: 0.15rem;
 }
 
 ul.nav-icons li.nav-item a.nav-link {

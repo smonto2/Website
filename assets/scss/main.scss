@@ -27,7 +27,9 @@ $sta-dark-link-hover: {{ $scr.Get "dark_link_hover" }};
 
 $sta-menu-primary: {{ $scr.Get "menu_primary" }};
 $sta-menu-text: {{ $scr.Get "menu_text" }};
-$sta-menu-text-active: {{ $scr.Get "menu_text_active" }};
+// Lightened so the active-menu colour stays visible against the dark navbar background,
+// while remaining a tint of the same brand colour rather than an unrelated accent.
+$sta-menu-text-active: lighten({{ $scr.Get "menu_text_active" }}, 38%);
 $sta-menu-title: {{ $scr.Get "menu_title" }};
 
 $sta-dark-menu-primary: {{ $scr.Get "dark_menu_primary" }};

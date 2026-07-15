@@ -155,7 +155,9 @@ article .article-metadata {
 }
 
 .article-categories {
-  white-space: nowrap; /* Keep category icon on same line as category links, otherwise context lost. */
+  /* Allow wrapping so long category lists don't get clipped on narrow screens;
+     the icon has no space after it, so it still stays glued to the first category. */
+  white-space: normal;
 }
 
 .middot-divider {

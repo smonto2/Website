@@ -6,7 +6,7 @@ advanced:
 content:
   archive:
     enable: false
-  count: 5
+  count: 6
   filters:
     category: ''
     only_featured: true

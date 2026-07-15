@@ -17,6 +17,13 @@ $navbar-toggler-padding-x: 0;
 $navbar-toggler-font-size: 18px;
 $navbar-brand-font-size: 1.2rem;
 
+// Trimmed from the default .5rem so the full expanded menu (all nav items
+// plus search/theme/language icons) fits without overflowing between the
+// xl breakpoint (1200px) and the .container-xl max-width (1290px).
+// The remaining space is reclaimed from the navbar's own left inset
+// (see #navbar-main .container-xl below) rather than compressing this further.
+$navbar-nav-link-padding-x: .4rem;
+
 $navbar-light-color: $sta-menu-text;
 $navbar-light-active-color: $sta-menu-text-active;
 $navbar-light-brand-color: $sta-menu-title;

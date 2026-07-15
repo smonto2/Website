@@ -24,8 +24,8 @@ abstract: "We develop Probabilistic Targeted Factor Analysis (PTFA), a likelihoo
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Modelos de Factores", "Mínimos Cuadrados Parciales", "Algoritmo EM", "Condiciones Financieras", "Pronósticos"]
-categories: ["Econometría", "Finanzas", "Macroeconomía"]
+tags: ["Factor Models", "Partial Least Squares", "EM Algorithm", "Financial Conditions", "Forecasting"]
+categories: ["Econometrics", "Finance", "Macroeconomics"]
 featured: true
 under_submission: true
 
@@ -38,7 +38,7 @@ under_submission: true
 #   icon: twitter
 
 url_pdf:
-url_code:
+url_code: "/code/#ptfa"
 url_dataset:
 url_poster:
 url_project:

@@ -43,7 +43,7 @@
 - id: btn_video
   translation: Vídeo
 - id: btn_code
-  translation: Código fuente
+  translation: Código
 - id: btn_dataset
   translation: Datos
 - id: btn_project

@@ -37,7 +37,7 @@ featured: true
 #   icon: twitter
 
 url_pdf: "workingpaper/networks/network_externalities.pdf"
-url_code:
+url_code: "/code/#ginormal"
 url_dataset:
 url_poster:
 url_project:

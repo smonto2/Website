@@ -26,7 +26,7 @@ summary: ""
 
 tags: ["Métodos Bayesianos", "Probit Ordenado Inflado en Cero", "Consumo de Sustancias Psicoactivas", "Monte Carlo Hamiltoniano"]
 categories: ["Econometría", "Métodos Bayesianos", "Variables Dependientes Limitadas", "Microeconomía Aplicada"]
-featured: false
+featured: true
 under_submission: true
 
 # Custom links (optional).

@@ -10,7 +10,7 @@ Below you can find details on each course, including weekly slides and lab mater
 
 ## Courses Taught
 
-- **ECON5152 --- Network Analysis**: Lecturer, Course Coordinator and Creator  
+- <a id="econ5152"></a>**ECON5152 --- Network Analysis**: Lecturer, Course Coordinator and Creator  
   University of Glasgow, *Spring 2026*
   - **Week 1:** Introduction to Networks --- [Slides](/teaching/econ5152_Network_Analysis/Week_1.pdf) · [Lab](/teaching/econ5152_Network_Analysis/Lab_1.ipynb)
   - **Week 2:** Network Types and Statistics --- [Slides](/teaching/econ5152_Network_Analysis/Week_2.pdf) · [Lab](/teaching/econ5152_Network_Analysis/Lab_2.ipynb)
@@ -24,7 +24,7 @@ Below you can find details on each course, including weekly slides and lab mater
   - **Week 10:** Advanced Topics and Complex Networks --- [Slides](/teaching/econ5152_Network_Analysis/Week_10.pdf) · [Lab](/teaching/econ5152_Network_Analysis/Lab_10.ipynb)
   - Supplementary: [Notebook used to generate slide figures](/teaching/econ5152_Network_Analysis/Slides_Figures.ipynb)
 
-- **ECON5128 --- MRes Econometrics 2**: Lecturer and Course Coordinator  
+- <a id="econ5128"></a>**ECON5128 --- MRes Econometrics 2**: Lecturer and Course Coordinator  
   University of Glasgow, *Spring 2024 -- Spring 2025*
   - **Weeks 1--2:** Panel Data --- [Slides](/teaching/econ5128_Econometrics_2/Week_1-2.pdf)
   - **Week 3:** Linear GMM --- [Slides](/teaching/econ5128_Econometrics_2/Week_3.pdf)
@@ -32,13 +32,13 @@ Below you can find details on each course, including weekly slides and lab mater
   - **Week 7:** Misspecification --- [Slides](/teaching/econ5128_Econometrics_2/Week_7.pdf)
   - Supplementary: [Lecture notes (OneNote)](/teaching/econ5128_Econometrics_2/Lecture_Notes.one)
 
-- **ECON5121 --- Microeconometrics: Impact Evaluation and Causal Analysis**: Lab Instructor  
+- <a id="econ5121"></a>**ECON5121 --- Microeconometrics: Impact Evaluation and Causal Analysis**: Lab Instructor  
   University of Glasgow, *Fall 2022*
 
-- **ECON5002 --- Basic Econometrics**: Lecturer  
+- <a id="econ5002"></a>**ECON5002 --- Basic Econometrics**: Lecturer  
   University of Glasgow, *Fall 2022*
 
-- **ECON5120 --- Bayesian Data Analysis**: Lecturer, Lab Instructor & Course Coordinator  
+- <a id="econ5120"></a>**ECON5120 --- Bayesian Data Analysis**: Lecturer, Lab Instructor & Course Coordinator  
   University of Glasgow, *Spring 2022 -- Present*
   - **Week 1:** Introduction and Examples of Bayes' Rule --- [Slides](/teaching/econ5120_Bayesian_Data_Analysis/Week_1.pdf) · [Lab](/teaching/econ5120_Bayesian_Data_Analysis/Lab_1.zip)
   - **Week 2:** Normal Model and Posterior Expectations --- [Slides](/teaching/econ5120_Bayesian_Data_Analysis/Week_2.pdf) · [Lab](/teaching/econ5120_Bayesian_Data_Analysis/Lab_2.zip)
@@ -52,14 +52,14 @@ Below you can find details on each course, including weekly slides and lab mater
   - **Week 10:** Time Series and Bayesian VARs --- [Slides](/teaching/econ5120_Bayesian_Data_Analysis/Week_10.pdf) · [Lab](/teaching/econ5120_Bayesian_Data_Analysis/Lab_10.zip)
   - Supplementary: [Lecture notes on Variational Bayes for Linear Regression](/teaching/econ5120_Bayesian_Data_Analysis/Lecture_Notes_Variational_Bayes.pdf)
 
-- **ECON5004P / ECON5102P --- Research Methods and Dissertation**: Lecturer  
+- <a id="econ5004p"></a>**ECON5004P / ECON5102P --- Research Methods and Dissertation**: Lecturer  
   University of Glasgow, *Fall 2021*
 
-- **ECON 101 --- Principles of Economics**: Instructor  
+- <a id="econ101"></a>**ECON 101 --- Principles of Economics**: Instructor  
   Emory University, *Spring 2020*
 
-- **ECO 251 --- Econometrics 2**: Adjunct Professor  
+- <a id="eco251"></a>**ECO 251 --- Econometrics 2**: Adjunct Professor  
   Universidad EAFIT, *July 2015 -- July 2016*
 
-- **ECO 250 --- Econometrics 1**: Adjunct Professor  
+- <a id="eco250"></a>**ECO 250 --- Econometrics 1**: Adjunct Professor  
   Universidad EAFIT, *July 2015 -- July 2016*

@@ -26,7 +26,7 @@ summary: ""
 
 tags: ["Bayesian methods", "Zero-inflated ordered probit", "Psychoactive substance consumption", "Hamiltonian Monte Carlo"]
 categories: ["Econometrics", "Bayesian", "Limited Dependent Variables", "Applied Microeconomics"]
-featured: false
+featured: true
 under_submission: true
 
 # Custom links (optional).

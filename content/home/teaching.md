@@ -14,5 +14,5 @@ widget: blank
 
 I am currently teaching the following courses at the University of Glasgow (mainly our [Masters' in Data Analytics for Economics and Finance (DAEF)](https://www.gla.ac.uk/postgraduate/taught/dataanalyticsforeconomicsfinance/), [MSc in Economics](https://www.gla.ac.uk/postgraduate/taught/economics-msc/) and other postgraduate programs):
 
-- ECON5120 --- Bayesian Data Analysis
-- ECON5152 --- Network Analysis
+- [ECON5120 --- Bayesian Data Analysis](/teaching/#econ5120)
+- [ECON5152 --- Network Analysis](/teaching/#econ5152)

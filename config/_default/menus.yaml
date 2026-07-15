@@ -22,7 +22,7 @@ main:
 #  - name: Blog
 #    url: '/blog/'
 #    weight: 65
-  - name: Funding and Awards
+  - name: Funding / Awards
     url: '#accomplishments'
     weight: 80
   - name: Contact

@@ -13,8 +13,8 @@ widget: blank
 {{% /callout %}}
 
 - [`ginormal` en GitHub](https://github.com/smonto2/ginormal)
-  - [Paquete de R](https://cran.r-project.org/package=ginormal)
   - [Paquete de Python](https://pypi.org/project/ginormal/)
-- [`PTFA` en GitHub](https://github.com/smonto2/PTFA/)
+  - [Paquete de R](https://cran.r-project.org/package=ginormal)
+- [`ptfa` en GitHub](https://github.com/smonto2/PTFA/)
   - [Paquete de Python](https://pypi.org/project/ptfa/)
 - [Material complementario para "Forecasting from Others' Experience..." (2019)](/publication/2019-10-gbm/supplement.zip)
