@@ -4,7 +4,7 @@ title: Teaching
 
 I have taught a multitude of courses at both the undergraduate and graduate level, at institutions in the United Kingdom, United States, Colombia and Argentina. The suite of courses I have developed covers both frequentist and Bayesian Econometrics (ranging from the basic core to graduate level, including micro- and macro-econometrics, asymptotic theory, causal inference, impact evaluation), as well as network analysis, data analytics, and research methods.
 
-If you would like me to teach a short course at your institution, please feel free to get in touch ([Contact](#contact)).
+If you would like me to teach a short course at your institution, please feel free to get in touch ([Contact](/#contact)).
 
 Below you can find details on each course, including weekly slides and lab materials where available. Larger packages, research code, and paper supplements are kept on the [Code](/code/) page.
 

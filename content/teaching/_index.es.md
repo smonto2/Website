@@ -4,7 +4,7 @@ title: "Docencia"
 
 He impartido una gran variedad de cursos tanto a nivel de pregrado como de posgrado, en instituciones del Reino Unido, Estados Unidos, Colombia y Argentina. Los cursos que he desarrollado abarcan Econometría tanto frecuentista como bayesiana (desde el nivel básico hasta el de posgrado, incluyendo microeconometría, macroeconometría, teoría asintótica, inferencia causal y evaluación de impacto), así como análisis de redes, analítica de datos y métodos de investigación.
 
-Si desea que dicte un curso corto en su institución, no dude en ponerse en contacto conmigo ([Contacto](#contact)).
+Si desea que dicte un curso corto en su institución, no dude en ponerse en contacto conmigo ([Contacto](/es/#contact)).
 
 A continuación encontrará detalles sobre cada curso, incluyendo diapositivas semanales y material de laboratorio cuando esté disponible. Los paquetes más extensos, el código de investigación y el material complementario de artículos se encuentran en la página de [Código](/code/).
 
