@@ -56,6 +56,10 @@ function scrollToAnchor(target, duration = 0) {
       duration,
       function () {
         $('body').removeClass('scrolling');
+        // A zero-duration (or already-at-target) animate doesn't reliably fire a native `scroll`
+        // event, so Scrollspy's listener never re-runs and the arriving link can stay unhighlighted
+        // even though the page landed in the right place. Nudge it to re-evaluate explicitly.
+        window.dispatchEvent(new Event('scroll'));
       },
     );
   } else {
@@ -112,6 +116,11 @@ $('#navbar-main li.nav-item a.nav-link, .js-scroll').on('click', function (event
         scrollTop: elementOffset,
       },
       800,
+      function () {
+        // See `scrollToAnchor()` above: the animate's final `scroll` event doesn't always land
+        // on a frame Scrollspy is listening for, so nudge it to re-evaluate explicitly.
+        window.dispatchEvent(new Event('scroll'));
+      },
     );
   }
 });
