@@ -45,9 +45,6 @@ education:
 
 # Social/Academic Networking
 social:
-- icon: cv
-  icon_pack: ai
-  link: /cv.pdf
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=QXGZsqIAAAAJ
@@ -63,6 +60,9 @@ social:
 - icon: elsevier
   icon_pack: ai
   link: https://www.scopus.com/authid/detail.uri?authorId=57192829740
+- icon: clarivate
+  icon_pack: custom
+  link: https://www.webofscience.com/wos/author/record/77154647
 - icon: github
   icon_pack: fab
   link: https://github.com/smonto2
