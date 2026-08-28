@@ -45,9 +45,6 @@ education:
 
 # Social/Academic Networking
 social:
-- icon: cv
-  icon_pack: ai
-  link: /cv.pdf
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=QXGZsqIAAAAJ
